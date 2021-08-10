@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+          "item": "minecraft:ink_sac"
+      },
+      {
+          "item": "minecraft:paper"
+      }
+    ],
+    "result": {
+      "item": "minecraft:name_tag"
+    }
+  }
